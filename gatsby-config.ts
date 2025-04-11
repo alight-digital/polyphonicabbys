@@ -4,11 +4,11 @@ require("dotenv").config();
 
 const config: GatsbyConfig = {
   siteMetadata: {  
-    siteUrl: `https://pinkwhale.sk`,  // 🌐 Updated for sitemap generation
-    title: `Pinkwhale`,
-    description: `Krátka definícia neexistuje/dlhá nikoho nezaujíma. Sme priestor. Pre umenie. Aj pre umenie žiť. Program v roku 2024 podporila Nadácia mesta Bratislava.`,
+    siteUrl: `https://polyphonicabyss.com/`,  // 🌐 Updated for sitemap generation
+    title: `Polyphonic Abyss`,
+    description: `Where art meets algorithm.`,
     image: `src/images/icon.png`,  // Make sure the image is in the static folder
-    twitterUsername: `@pinkwhale`,
+    twitterUsername: `@polyphonicabyss`,
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
@@ -36,8 +36,8 @@ const config: GatsbyConfig = {
   }, {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Pinkwhale`,
-        short_name: `Pinkwhale`,
+        name: `Polyphonic Abyss`,
+        short_name: `Polyphonic Abyss`,
         start_url: `/`,
         background_color: `#000`,
         theme_color: `#FFF`,
