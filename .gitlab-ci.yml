@@ -1,0 +1,40 @@
+image: node:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  NODE_OPTIONS: "--max-old-space-size=4096"
+
+# ✅ Build Stage
+build:
+  stage: build
+  script:
+    - rm -rf .cache public node_modules
+    - echo "GATSBY_FB_ACCESS_TOKEN=${GATSBY_FB_ACCESS_TOKEN}"
+    - npm install
+    - npm run build
+  artifacts:
+    paths:
+      - public
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - node_modules/
+
+# ✅ Deployment to GitLab Pages
+pages:
+  stage: deploy
+  script:
+    - npm install
+    - npm run build
+  cache:
+    paths:
+      - node_modules/
+      - .cache/   # Gatsby cache
+      - public/   # Gatsby output folder
+  dependencies:
+    - build      # Use the build output
+  artifacts:
+    paths:
+      - public
+  only:
+    - main

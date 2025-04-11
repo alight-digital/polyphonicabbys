@@ -1,0 +1,6 @@
+# netlify.toml
+[build]
+  base = "."  # Root directory of the project
+  publish = "public"  # Where to store the build output
+  functions = "src/functions"  # Directory for serverless functions
+  command = "npm install && npm run build"  # Command to install and build

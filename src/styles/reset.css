@@ -1,0 +1,31 @@
+/* src/styles/reset.css */
+
+/* Resetting margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Remove default text styling from headings */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: normal;
+}
+
+/* Remove underline from links */
+a {
+  text-decoration: none;
+}
+
+/* Make sure to have consistent list styles */
+ul, ol {
+  list-style: none;
+}
+
+/* Set a consistent font family and size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
