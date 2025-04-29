@@ -94,7 +94,7 @@ const Header: React.FC = () => {
         <LinkStyled to="/">
           <StaticImage
             src="../images/logo.png"
-            alt="PinkWhale Logo"
+            alt="Polyphonic Abyss Logo"
             placeholder="blurred"
             layout="constrained"
             width={200}
