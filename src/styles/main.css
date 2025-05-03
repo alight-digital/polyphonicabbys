@@ -23,6 +23,27 @@ h1, h2, h3, h4, h5{
   font-weight: 640;
 }
 
+/* Profile image styles */
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 20px auto;
+    display: block;
+}
+
+/* Link styles */
+a {
+    color: #EAAA00;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #FFC107;
+}
+
 img[alt]:after {  
   display: block;
   position: absolute;
@@ -344,7 +365,7 @@ header a[aria-current="page"] {
   padding: 60px 20px;
 }
 
-.mission, .studio-equipment, .gallery, .audio-library {
+.mission, .studio-equipment, .gallery, .audio-library, .about-founder {
   text-align: center;
   padding: 40px 20px;
 }

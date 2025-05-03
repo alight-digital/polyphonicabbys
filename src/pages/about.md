@@ -24,6 +24,18 @@ permalink: "about"
   Sme tu pre tých, ktorí chcú tvoriť odvážne, hlboko a po svojom.</p>
 </div>
 
+<div class="about-founder">
+  <h2>Zakladateľ štúdia</h2>
+  <h3>Teo – zakladateľ, producent, hudobník</h3>
+  <img src="/teo.jpg" alt="Teo - zakladateľ Polyphonic Abyss Studios" class="profile-image">
+  <p>Za Polyphonic Abyss Studios stojím ja – <a href="https://www.instagram.com/teo_svk">Teo</a>. Hudbe sa venujem vyše 15 rokov a prešiel som si cestu od garážových riffov až po vlastné štúdio.
+
+Polyphonic Abyss som založil ako reakciu na niečo, čo mi vo svete hudobnej produkcie chýbalo: priestor, kde sa technológia nebije s umením, ale ho podporuje.
+Priestor, kde nie si súčasť pásovej výroby, ale partnerom v tvorbe.
+
+Verím v hlboký, surový a autentický zvuk. Verím, že dobrý producent nielen nahrá, ale počúva – naozaj.
+A hlavne verím, že keď sa človek ponorí do hudby naplno, znie to tak, že to cíti aj niekto tisíce kilometrov ďaleko.</p>
+</div>
 
 <div class="studio-equipment">
   <h2>Vybavenie štúdia</h2>
@@ -37,7 +49,6 @@ permalink: "about"
   </ul>
   <a href="/contact" class="button">Rezervuj si bezplatnú konzultáciu</a>
 </div>
- 
 
 <div class="gallery">
   <h2>Galéria</h2>
