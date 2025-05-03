@@ -3,4 +3,10 @@
   base = "."  # Root directory of the project
   publish = "public"  # Where to store the build output
   functions = "src/functions"  # Directory for serverless functions
-  command = "npm install && npm run build"  # Command to install and build
+  command = "gatsby build"  # Command to install and build
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[plugins]]
+  package = "@netlify/plugin-gatsby"
