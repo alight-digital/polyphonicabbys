@@ -3,7 +3,7 @@
 date:   2015-02-23 19:49:37 -0300
 excerpt_separator: <!--more-->
 
-title:  "Contact"
+title:  "Kontakt - Polyphonic Abyss Studios"
 description: "Contact"
 
 # URL

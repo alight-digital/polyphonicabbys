@@ -3,7 +3,7 @@
 date:   2015-02-23 19:49:37 -0300
 excerpt_separator: <!--more-->
 
-title:  "About"
+title:  "O nás - Polyphonic Abyss Studios"
 description: "About"
 
 # URL

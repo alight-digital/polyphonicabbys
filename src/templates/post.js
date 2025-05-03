@@ -20,6 +20,11 @@ const Post = ({ data }) => {
   );
 };
 
+export const Head = ({ data }) => {
+  const post = data.markdownRemark;
+  return <title>{post.frontmatter.title}</title>;
+};
+
 export const query = graphql`
   query ($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
