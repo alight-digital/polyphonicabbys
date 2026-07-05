@@ -11,7 +11,7 @@ const Header: React.FC = () => {
           
     {/* Navigation Links */}
       
-    &copy; Polyphonic Abyss 2025
+    &copy; Polyphonic Abyss 2026
       
     </footer>
       

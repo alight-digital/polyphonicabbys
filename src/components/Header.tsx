@@ -106,16 +106,16 @@ const Header: React.FC = () => {
 
       <NavLinks>
         <NavItem>
-          <LinkStyled to="/">DOMOV</LinkStyled>
+          <LinkStyled to="/">HOME</LinkStyled>
         </NavItem>
         <NavItem>
-          <LinkStyled to="/about">O NÁS</LinkStyled>
+          <LinkStyled to="/about">ABOUT</LinkStyled>
         </NavItem>
         <NavItem>
-          <LinkStyled to="/services">SLUŽBY</LinkStyled>
+          <LinkStyled to="/services">SERVICES</LinkStyled>
         </NavItem>
         <NavItem>
-          <LinkStyled to="/contact">KONTAKT</LinkStyled>
+          <LinkStyled to="/contact">CONTACT</LinkStyled>
         </NavItem>
       </NavLinks>
           
@@ -128,16 +128,16 @@ const Header: React.FC = () => {
       <MobileMenu isOpen={isMenuOpen}>
         <MobileNavLinks>
           <MobileNavItem>
-            <LinkStyled to="/">DOMOV</LinkStyled>
+            <LinkStyled to="/">HOME</LinkStyled>
           </MobileNavItem>
           <MobileNavItem>
-            <LinkStyled to="/about">O NÁS</LinkStyled>
+            <LinkStyled to="/about">ABOUT</LinkStyled>
           </MobileNavItem>
           <MobileNavItem>
-            <LinkStyled to="/services">SLUŽBY</LinkStyled>
+            <LinkStyled to="/services">SERVICES</LinkStyled>
           </MobileNavItem>
           <MobileNavItem>
-            <LinkStyled to="/contact">KONTAKT</LinkStyled>
+            <LinkStyled to="/contact">CONTACT</LinkStyled>
           </MobileNavItem>
         </MobileNavLinks>
       </MobileMenu>

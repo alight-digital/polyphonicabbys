@@ -3,7 +3,7 @@
 date:   2015-02-23 19:49:37 -0300
 excerpt_separator: <!--more-->
 
-title:  "O nás - Polyphonic Abyss Studios"
+title:  "About - Polyphonic Abyss Studios"
 description: "About"
 
 # URL
@@ -12,61 +12,61 @@ permalink: "about"
 
 <div class="banner about">
   <h1>About Polyphonic Abyss</h1>
-  <p><b>Polyphonic Abyss Studios</b> vzniklo z túžby vytvoriť priestor, kde sa technológia nestavia nad umenie, ale slúži mu. Sme nahrávacie štúdio pre hudobníkov, producentov a zvukových tvorcov, ktorí chcú ísť do hĺbky – v zvuku, v emócii, v autenticite.<br>
-  U nás sa analógové srdce stretáva s digitálnou mysľou. Či pracujeme na surovom djente, preplnenom ambiente alebo osobnej výpovedi sólového umelca, vždy ideme po pravde zvuku.
+  <p><b>Polyphonic Abyss Studios</b> was born from a desire to create a space where technology doesn't stand above art — it serves it. We're a recording studio for musicians, producers, and sound creators who want to go deep — in sound, in emotion, in authenticity. Based in Bratislava, we work with artists locally and remotely across time zones.<br>
+  Here, analog heart meets digital mind. Whether we're working on raw djent, dense ambient, or a solo artist's personal statement, we always chase sonic truth.
 
   </p>
 </div>
 
 <div class="mission">
-  <h2>Naša misia</h2>
-  <p>Veríme, že každý zvuk má dušu. Naším cieľom nie je len nahrať ďalšiu skladbu – ale pomôcť ti vystihnúť podstatu tvojej hudby. <br>
-  Sme tu pre tých, ktorí chcú tvoriť odvážne, hlboko a po svojom.</p>
+  <h2>Our mission</h2>
+  <p>We believe every sound has a soul. Our goal isn't just to record another track — it's to help you capture the essence of your music. <br>
+  We're here for those who want to create boldly, deeply, and on their own terms.</p>
 </div>
 
 <div class="about-founder">
-  <h2>Zakladateľ štúdia</h2>
-  <h3>Teo – zakladateľ, producent, hudobník</h3>
-  <img src="/teo.jpg" alt="Teo - zakladateľ Polyphonic Abyss Studios" class="profile-image">
-  <p>Za Polyphonic Abyss Studios stojím ja – <a href="https://www.instagram.com/teo_svk">Teo</a>. Hudbe sa venujem vyše 15 rokov a prešiel som si cestu od garážových riffov až po vlastné štúdio.
+  <h2>Studio founder</h2>
+  <h3>Teo — founder, producer, musician</h3>
+  <img src="/teo.jpg" alt="Teo - founder of Polyphonic Abyss Studios" class="profile-image">
+  <p>Behind Polyphonic Abyss Studios is me — <a href="https://www.instagram.com/teo_svk">Teo</a>. I've been making music for over 15 years, from garage riffs to running my own studio.
 
-Polyphonic Abyss som založil ako reakciu na niečo, čo mi vo svete hudobnej produkcie chýbalo: priestor, kde sa technológia nebije s umením, ale ho podporuje.
-Priestor, kde nie si súčasť pásovej výroby, ale partnerom v tvorbe.
+I founded Polyphonic Abyss as a response to something missing in the world of music production: a space where technology doesn't fight art, but supports it.
+A space where you're not part of an assembly line, but a partner in the creative process.
 
-Verím v hlboký, surový a autentický zvuk. Verím, že dobrý producent nielen nahrá, ale počúva – naozaj.
-A hlavne verím, že keď sa človek ponorí do hudby naplno, znie to tak, že to cíti aj niekto tisíce kilometrov ďaleko.</p>
+I believe in deep, raw, authentic sound. I believe a good producer doesn't just record — they listen, for real.
+And above all, I believe that when someone pours themselves fully into the music, it resonates — even with someone thousands of miles away.</p>
 </div>
 
 <div class="studio-equipment">
-  <h2>Vybavenie štúdia</h2>
+  <h2>Studio equipment</h2>
   <ul>
-    <li>Akusticky ošetrené miestnosti s temným, sústredeným vibeom</li>
-    <li>Špičkové mikrofóny, preampy a konverzné jednotky</li>
-    <li>Analógové geary aj moderné AI nástroje</li>
-    <li>Logic Studio, hard rock/metal produkčné workflowy</li>
-    <li>Mix & mastering ready pre Spotify, Bandcamp aj vinyl</li>
-    <li>Pripojenie na merch & distribučné platformy</li>
+    <li>Acoustically treated rooms with a dark, focused vibe</li>
+    <li>Top-tier microphones, preamps, and conversion units</li>
+    <li>Analog gear and modern AI tools</li>
+    <li>Logic Studio, hard rock/metal production workflows</li>
+    <li>Mix & mastering ready for Spotify, Bandcamp, and vinyl</li>
+    <li>Connections to merch & distribution platforms</li>
   </ul>
-  <a href="/contact" class="button">Rezervuj si bezplatnú konzultáciu</a>
+  <a href="/contact" class="button">Book a free consultation</a>
 </div>
 
 <div class="gallery">
-  <h2>Galéria</h2>
-  <h3>Zo zákulisia zvuku</h3>
-  <p>Zachytávame momenty, keď sa nápad mení na realitu. Či je to záblesk svetla na crash čineli, pohľad do prázdna počas vokálu alebo ruka na gain knobe – každý detail patrí do príbehu.</p>
-  <a href="#" class="button">Coming soon – vizuálny priestor Polyphonic Abyss sa práve ladí do ostrosti.</a>
+  <h2>Gallery</h2>
+  <h3>Behind the sound</h3>
+  <p>We capture the moments when an idea becomes reality. Whether it's a flash of light on a crash cymbal, a stare into the void during a vocal take, or a hand on the gain knob — every detail belongs in the story.</p>
+  <a href="#" class="button">Coming soon — the visual side of Polyphonic Abyss is being brought into focus.</a>
 </div>
  
 
 <div class="audio-library">
-  <h2>Ukážky projektov</h2>
-  <h3>Počúvaj, ako znie náš svet</h3>
-  <p>Výber trackov, hlasov a iných zvukov, ktoré vznikli medzi stenami nášho štúdia. Každý má vlastnú hĺbku, energiu a otlačok svojho tvorcu – a náš jemný dotyk v mixe a produkcii.</p>
-  <a href="#" class="button">Coming soon – ešte chvíľku a z reproduktorov sa vyleje temnota aj svetlo.</a>
+  <h2>Project samples</h2>
+  <h3>Listen to our world</h3>
+  <p>A selection of tracks, vocals, and other sounds born between our studio walls — and in remote sessions with artists around the globe. Each one has its own depth, energy, and fingerprint of its creator, plus our subtle touch in the mix and production.</p>
+  <a href="#" class="button">Coming soon — darkness and light, pouring from the speakers any moment now.</a>
 </div>
 
 <div class="contact-section">
-  <h2>Máš v hlave nápad, čo stojí za to? Ozvi sa.</h2>
-  <p>Nezáleží na tom, či si kapela, sólista, producent alebo len hľadáš miesto, kde tvoj zvuk konečne dostane tvár. Dajme si kávu, zavolajme si, alebo príď rovno do štúdia – a poďme to roztočiť.</p>
-  <a href="/contact" class="button">Rezervuj si bezplatnú konzultáciu</a>
+  <h2>Got an idea worth pursuing? Get in touch.</h2>
+  <p>Whether you're a band, solo artist, producer, or just looking for a place where your sound finally gets the treatment it deserves — let's talk. Hop on a video call, drop us a line, or come visit the studio in Bratislava. Wherever you are, let's make it happen.</p>
+  <a href="/contact" class="button">Book a free consultation</a>
 </div>
